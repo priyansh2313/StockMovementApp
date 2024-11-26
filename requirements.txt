@@ -23,7 +23,7 @@ google-cloud-storage==2.8.0
 grpcio==1.68.0
 h5py==3.12.1
 jupyter-client==8.3.0
-keras==2.16.0
+keras==2.15.0
 matplotlib==3.8.0
 numpy==1.24.0
 pandas==1.5.4
