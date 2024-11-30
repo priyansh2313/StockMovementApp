@@ -1,3 +1,5 @@
+pip install --upgrade -r requirements.txt
+pip freeze > requirements.txt
 
 setuptools>=65.5
 absl-py==1.4.0
