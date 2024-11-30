@@ -1,4 +1,4 @@
-
+yfinance
 setuptools
 absl-py
 accelerate
