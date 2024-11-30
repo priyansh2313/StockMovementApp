@@ -33,7 +33,7 @@ requests
 scikit-learn
 scipy
 streamlit
-tensorflow=
+tensorflow
 torch
 tqdm
 transformers
