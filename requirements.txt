@@ -1,4 +1,5 @@
 yfinance
+textblob
 setuptools
 absl-py
 accelerate
