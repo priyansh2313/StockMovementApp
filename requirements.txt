@@ -1,5 +1,5 @@
 yfinance
-joblib>=0.10
+joblib=0.12.3
 textblob
 setuptools
 absl-py
